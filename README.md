@@ -10,6 +10,10 @@ to end in C#.
 | **Language** | C# (runtime + editor tooling) |
 | **Scope** | Combat systems prototype |
 | **Status** | Development prototype, not a released game |
+| **Live demo** | Unity project — no hosted demo |
+| **Screenshots** | Pending — see [docs/CAPTURE_GUIDE.md](docs/CAPTURE_GUIDE.md) |
+| **Stack** | Unity · C# |
+| **License** | MIT — [LICENSE](LICENSE) |
 
 ## What it demonstrates
 
@@ -63,6 +67,12 @@ and platform build have not been verified during this publication pass. See
 release-readiness claims are made.
 
 ---
+
+## What I would do next
+
+- Record combat combos and the style scoring HUD as a GIF for the top of the README.
+- Add automated tests for combo resolution and lock-on target selection.
+- Tune the animation cancel windows with recorded playtest data.
 
 ## License
 
